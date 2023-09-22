@@ -1,5 +1,7 @@
 .table {
-    background-color: deeppink; color:lavender
+    background-color: deeppink; color:lavender;
+     border-width: 2ppx; border-style: dashed; border-color: blueviolet;
+   
            }
            h1{
             font-family:"Arial";
@@ -11,4 +13,41 @@
 body{
    background-color: pink;
 }
+.next-gen{
+    color:red;
+    background-color: maroon;
+}
 
+.head{
+    text-align: center;
+    color:red;
+    font-size: 40px;
+    font-family: fantasy;}
+
+ .head:hover{
+        color: skyblue;
+    
+}
+.main{
+    text-align: center;
+
+}
+.image{
+    align-content: center;
+}
+.footer{
+    font-style: strong;
+}
+.applelisa{
+    color:orangered;background-color:lightsalmon
+}
+.mactwo{
+    color:rgb(216, 216, 15);
+    background-color:rgb(247, 247, 148)
+}
+.powermac{
+    color:green;background-color:rgb(168, 207, 168)
+}
+.imac{
+    color:blue;background-color:rgb(179, 179, 226)
+}
